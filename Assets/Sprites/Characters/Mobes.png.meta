@@ -1,0 +1,1044 @@
+fileFormatVersion: 2
+guid: 3479afbb70c698c4c86a16978d72c101
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Teatar_1
+    21300002: Teatar_2
+    21300004: Teatar_3
+    21300006: Teatar_4
+    21300008: Teatar_5
+    21300010: Mobes_5
+    21300012: Mosquitube_1
+    21300014: Mosquitube_3
+    21300016: Mosquitube_2
+    21300018: Tablica_1
+    21300020: Tablica_2
+    21300022: Tablica_3
+    21300024: Mosquitube_4
+    21300026: Mosquitube_5
+    21300028: Mosquitube_6
+    21300030: Teatar_6
+    21300032: Teatar_7
+    21300034: Teatar_8
+    21300036: Teatar_9
+    21300038: Teatar_10
+    21300040: Tablica_6
+    21300042: Tablica_7
+    21300044: Tablica_4
+    21300046: Coftar_1
+    21300048: Coftar_2
+    21300050: Coftar_3
+    21300052: Coftar_4
+    21300054: Coftar_5
+    21300056: Teatar_11
+    21300058: Teatar_12
+    21300060: Teatar_13
+    21300062: Teatar_14
+    21300064: Teatar_15
+    21300066: Tablica_8
+    21300068: Tablica_5
+    21300070: Coftar_6
+    21300072: Coftar_7
+    21300074: Coftar_8
+    21300076: Coftar_9
+    21300078: Coftar_10
+    21300080: Coftar_11
+    21300082: Coftar_12
+    21300084: Coftar_13
+    21300086: Coftar_14
+    21300088: Coftar_15
+  externalObjects: {}
+  serializedVersion: 9
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Teatar_1
+      rect:
+        serializedVersion: 2
+        x: 1413
+        y: 2153
+        width: 238
+        height: 323
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77a204e9455146b4abaa29c05c31e5a2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Teatar_2
+      rect:
+        serializedVersion: 2
+        x: 1668
+        y: 2153
+        width: 198
+        height: 323
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10d5318e60b6a8744a49b83cef3fe60c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Teatar_3
+      rect:
+        serializedVersion: 2
+        x: 1878
+        y: 2153
+        width: 198
+        height: 323
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf2002046ef892d45aa01c8ab04a9de6
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Teatar_4
+      rect:
+        serializedVersion: 2
+        x: 2088
+        y: 2153
+        width: 219
+        height: 323
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e193ccaedeff7c419e06aaa93bc83a4
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Teatar_5
+      rect:
+        serializedVersion: 2
+        x: 2324
+        y: 2153
+        width: 217
+        height: 323
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3894d9211110fab4691600d2e380193c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobes_5
+      rect:
+        serializedVersion: 2
+        x: 2743
+        y: 2454
+        width: 38
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 961363c8293cd074db8ab61567917056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mosquitube_1
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 2158
+        width: 308
+        height: 274
+      alignment: 9
+      pivot: {x: 0.30930516, y: 0.39707246}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 144d33225f546f94799dde0826032769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mosquitube_3
+      rect:
+        serializedVersion: 2
+        x: 538
+        y: 2158
+        width: 318
+        height: 274
+      alignment: 9
+      pivot: {x: 0.29843122, y: 0.3712782}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e58767ab7f5fffe4fa3e5b702e640c70
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mosquitube_2
+      rect:
+        serializedVersion: 2
+        x: 939
+        y: 2158
+        width: 323
+        height: 274
+      alignment: 9
+      pivot: {x: 0.29002544, y: 0.3827332}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 307b518b8f7caf44a8143660cd857fe6
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tablica_1
+      rect:
+        serializedVersion: 2
+        x: 2649
+        y: 2179
+        width: 202
+        height: 268
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c34c76d4d9e32174999c306264cc9909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tablica_2
+      rect:
+        serializedVersion: 2
+        x: 2888
+        y: 2179
+        width: 204
+        height: 268
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8641a1dd52c8ef499e73211a266adf4
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tablica_3
+      rect:
+        serializedVersion: 2
+        x: 3129
+        y: 2179
+        width: 202
+        height: 268
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e259dae0290e67c4296bbf96eeb23a79
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mosquitube_4
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 1839
+        width: 308
+        height: 273
+      alignment: 9
+      pivot: {x: 0.30853188, y: 0.39091116}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d8a556a0f586fe4e9a918a85a2ea2c6
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mosquitube_5
+      rect:
+        serializedVersion: 2
+        x: 538
+        y: 1839
+        width: 323
+        height: 273
+      alignment: 9
+      pivot: {x: 0.29557702, y: 0.37476167}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e747a580ca761642a5477e21cac7e34
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mosquitube_6
+      rect:
+        serializedVersion: 2
+        x: 938
+        y: 1839
+        width: 318
+        height: 273
+      alignment: 9
+      pivot: {x: 0.3009536, y: 0.3674473}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63223668dea649749889f582e83e4b63
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Teatar_6
+      rect:
+        serializedVersion: 2
+        x: 1413
+        y: 1805
+        width: 238
+        height: 321
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e1692f5c6dc07143b230c146c1b74f6
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Teatar_7
+      rect:
+        serializedVersion: 2
+        x: 1668
+        y: 1805
+        width: 198
+        height: 321
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1f1bcb56b7cd7143b278f4f12f089e2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Teatar_8
+      rect:
+        serializedVersion: 2
+        x: 1878
+        y: 1805
+        width: 198
+        height: 321
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17ef48c381dea3d4d952ed5398f2ed4a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Teatar_9
+      rect:
+        serializedVersion: 2
+        x: 2088
+        y: 1805
+        width: 219
+        height: 321
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f1a98dfbd0381c478df6360e7cb578c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Teatar_10
+      rect:
+        serializedVersion: 2
+        x: 2324
+        y: 1805
+        width: 217
+        height: 321
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a104b29e89ec5f243af8bb74a8139aba
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tablica_6
+      rect:
+        serializedVersion: 2
+        x: 2649
+        y: 1859
+        width: 202
+        height: 267
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d331d2741b74e35448c33589c012f759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tablica_7
+      rect:
+        serializedVersion: 2
+        x: 2888
+        y: 1859
+        width: 204
+        height: 267
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68b6b9a4bf0f13543a33313ee9f8de6b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tablica_4
+      rect:
+        serializedVersion: 2
+        x: 3129
+        y: 1864
+        width: 202
+        height: 262
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8cebb82c0cfbcf844ab91e5cbcdc83bb
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Coftar_1
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 1454
+        width: 238
+        height: 321
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03575e37077578e4c9aa7669c433aa86
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Coftar_2
+      rect:
+        serializedVersion: 2
+        x: 349
+        y: 1454
+        width: 198
+        height: 321
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54e5ee7a8eb424943b9378c5c6701e87
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Coftar_3
+      rect:
+        serializedVersion: 2
+        x: 559
+        y: 1454
+        width: 198
+        height: 321
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd70b278922bf0842a989ac8bd164521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Coftar_4
+      rect:
+        serializedVersion: 2
+        x: 769
+        y: 1454
+        width: 217
+        height: 321
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a69b0e41e480ad45b8e7a6efa21dcc2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Coftar_5
+      rect:
+        serializedVersion: 2
+        x: 1003
+        y: 1454
+        width: 219
+        height: 321
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce78a30427e939247884f372cc4f9d18
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Teatar_11
+      rect:
+        serializedVersion: 2
+        x: 1413
+        y: 1459
+        width: 238
+        height: 322
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b538239a1d3519345b9ea0fb17eeee6a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Teatar_12
+      rect:
+        serializedVersion: 2
+        x: 1668
+        y: 1459
+        width: 198
+        height: 322
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ef71e4a5c3217a41b83315bd8913562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Teatar_13
+      rect:
+        serializedVersion: 2
+        x: 1878
+        y: 1459
+        width: 198
+        height: 322
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2839c9ed3e20c6d4b9d24ff97806ce6d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Teatar_14
+      rect:
+        serializedVersion: 2
+        x: 2088
+        y: 1459
+        width: 219
+        height: 322
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5bc2a7f6d61e7fb45b754d1d053cda62
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Teatar_15
+      rect:
+        serializedVersion: 2
+        x: 2324
+        y: 1459
+        width: 217
+        height: 322
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9c46725f2e86a44cb244eaef1fb6806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tablica_8
+      rect:
+        serializedVersion: 2
+        x: 2664
+        y: 1538
+        width: 202
+        height: 263
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b93384afe873a9c4ea23704bf3c57d14
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tablica_5
+      rect:
+        serializedVersion: 2
+        x: 2904
+        y: 1538
+        width: 203
+        height: 263
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0fbf9f6d731c4744ea120640455f241f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Coftar_6
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 1104
+        width: 238
+        height: 323
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 072e083d787fb6c4f9dd1a9a1615920a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Coftar_7
+      rect:
+        serializedVersion: 2
+        x: 349
+        y: 1104
+        width: 198
+        height: 323
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4625248a97f125f4e82ef7bf6b810782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Coftar_8
+      rect:
+        serializedVersion: 2
+        x: 559
+        y: 1104
+        width: 198
+        height: 323
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c822a09616ba0da44aafe08fd45fd328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Coftar_9
+      rect:
+        serializedVersion: 2
+        x: 769
+        y: 1104
+        width: 217
+        height: 323
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dad35f9c8c05d3c48bda8e4d5784a0cd
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Coftar_10
+      rect:
+        serializedVersion: 2
+        x: 1003
+        y: 1104
+        width: 219
+        height: 323
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c2b0b6c64a249b4f9abc104ae6af69a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Coftar_11
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 759
+        width: 238
+        height: 323
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f78e9ef5b17b9a74cb3bca9ec05060e1
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Coftar_12
+      rect:
+        serializedVersion: 2
+        x: 349
+        y: 759
+        width: 198
+        height: 323
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2d8f04c0b94d20459921fb33ba8d9a8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Coftar_13
+      rect:
+        serializedVersion: 2
+        x: 559
+        y: 759
+        width: 198
+        height: 323
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21ba20c0b4d4d2b4b8167cb147cc6446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Coftar_14
+      rect:
+        serializedVersion: 2
+        x: 769
+        y: 759
+        width: 217
+        height: 323
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d0849ccd3d8f6f49a2b1dde4c11ff20
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Coftar_15
+      rect:
+        serializedVersion: 2
+        x: 1003
+        y: 759
+        width: 219
+        height: 323
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08acb99249c7691449310a4d77ea95a8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: adf6b939d30fe8649901e6f51ddf32ad
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
